@@ -1,5 +1,5 @@
 # os-lab-awk
-Simple task from OS lab using awk 
+Part of a task from OS lab using awk 
 ## Task
 In a given text file, convert all dates in the format `yyyy-mm-dd` to `mm/dd/yy`
 
